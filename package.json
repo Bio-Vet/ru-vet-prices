@@ -1,0 +1,29 @@
+{
+  "name": "ru-vet-prices",
+  "version": "1.0.0",
+  "description": "Open snapshot of veterinary service prices in Russia: 35 services × 20 clinics × 6 cities (anonymized)",
+  "type": "module",
+  "main": "data/ru-vet-prices.json",
+  "exports": {
+    ".": "./data/ru-vet-prices.json"
+  },
+  "files": [
+    "data",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  },
+  "keywords": [
+    "veterinary",
+    "prices",
+    "russia",
+    "pets",
+    "market",
+    "dataset",
+    "open-data"
+  ],
+  "author": "BioVet veterinary clinic network (https://bio.vet)",
+  "license": "CC-BY-4.0"
+}

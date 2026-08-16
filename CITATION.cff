@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "ru-vet-prices: open snapshot of veterinary service prices in Russia"
+type: dataset
+authors:
+  - name: "BioVet veterinary clinic network"
+    website: "https://bio.vet"
+version: 1.0.0
+date-released: 2026-08-21
+license: CC-BY-4.0
+repository-code: "https://github.com/Bio-Vet/ru-vet-prices"
+url: "https://bio.vet/open-data/"
