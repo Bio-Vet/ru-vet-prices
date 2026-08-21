@@ -1,36 +1,36 @@
 service_key,service_ru,service_en,n_sources,min_rub,median_rub,max_rub
-priem-terapevta,Первичный приём терапевта,Initial GP consultation,20,1000,2250,6700
-povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,16,700,1750,5300
-priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,20,1800,3360,7400
-priem-nochnoy,Ночной / экстренный приём,Night / emergency consultation,9,2000,3000,7600
-kastratsiya-kota,Кастрация кота,Cat neuter (male),20,2700,5600,12720
-sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),20,4550,10000,27400
-kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",20,4000,12400,20447
-sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",20,6400,14500,36500
-kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",18,5300,18675,36500
-vaktsinatsiya-koshki,Комплексная вакцинация кошки с бешенством,Cat core vaccination incl. rabies,12,2800,3200,4400
-vaktsinatsiya-sobaki,Комплексная вакцинация собаки с бешенством,Dog core vaccination incl. rabies,13,2000,3200,4600
-privivka-beshenstvo,Прививка от бешенства,Rabies shot only,13,700,1500,2800
-chipirovanie,Чипирование,Microchipping,18,1500,2650,5100
-degelmintizatsiya,Дегельминтизация (процедура),Deworming (procedure),4,150,700,1200
-obrabotka-kleshchi,Обработка от клещей и блох (процедура),Tick/flea treatment (procedure),13,150,500,4970
-uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,20,2000,4403,7500
-uzi-serdtsa,ЭхоКГ (УЗИ сердца),Echocardiography,20,1500,3450,8290
-rentgen,"Рентген, 1 проекция","X-ray, 1 view",19,1200,2000,4800
-ekg,ЭКГ,ECG,18,1200,2150,3730
-oak,Общий анализ крови,CBC,17,630,1150,3890
-biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),18,1200,1750,4160
-analiz-mochi,Общий анализ мочи,Urinalysis,18,530,920,2880
-analiz-kala,Анализ кала,Fecal analysis,17,400,850,3900
-uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,20,2200,4975,17700
-udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,20,450,1075,4500
-strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",19,300,710,2190
-chistka-paraanalnyh,Чистка параанальных желёз,Anal gland expression,18,450,875,3500
-kapelnitsa,Внутривенная инфузия (капельница),IV infusion,19,420,1500,6850
-inyektsiya,Инъекция п/к или в/м,SC/IM injection,19,110,360,800
-statsionar,"Стационар, сутки","Hospitalization, 24 h",10,1300,5125,15800
-vyzov-na-dom,Вызов врача на дом,Home visit,8,1000,2750,7500
-narkoz-ingalyatsionny,Ингаляционный наркоз (базовая единица),Inhalation anesthesia (base unit),8,1800,5500,10630
-snyatie-shvov,Снятие швов,Suture removal,17,210,500,2300
-evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",19,1800,3500,7801
-krematsiya,Общая кремация мелкого животного,"Communal cremation, small pet",13,1800,3800,10000
+priem-terapevta,Первичный приём терапевта,Initial GP consultation,30,350,1987,6700
+povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,24,200,1500,5300
+priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,28,500,3000,7400
+priem-nochnoy,Ночной / экстренный приём,Night / emergency consultation,11,500,3000,7600
+kastratsiya-kota,Кастрация кота,Cat neuter (male),30,1500,4560,12720
+sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),30,2000,8250,27400
+kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",30,1500,8625,20447
+sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",30,2500,11500,36500
+kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",25,2000,13000,36500
+vaktsinatsiya-koshki,Комплексная вакцинация кошки с бешенством,Cat core vaccination incl. rabies,18,2700,3100,5300
+vaktsinatsiya-sobaki,Комплексная вакцинация собаки с бешенством,Dog core vaccination incl. rabies,19,2000,3000,5390
+privivka-beshenstvo,Прививка от бешенства,Rabies shot only,18,500,1500,2800
+chipirovanie,Чипирование,Microchipping,26,350,2000,5100
+degelmintizatsiya,Дегельминтизация (процедура),Deworming (procedure),5,150,600,1200
+obrabotka-kleshchi,Обработка от клещей и блох (процедура),Tick/flea treatment (procedure),16,100,500,4970
+uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,29,900,3390,7500
+uzi-serdtsa,ЭхоКГ (УЗИ сердца),Echocardiography,27,1500,3000,8290
+rentgen,"Рентген, 1 проекция","X-ray, 1 view",26,550,1925,4800
+ekg,ЭКГ,ECG,25,350,2000,3730
+oak,Общий анализ крови,CBC,27,410,860,3890
+biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),26,600,1675,4160
+analiz-mochi,Общий анализ мочи,Urinalysis,27,300,900,2880
+analiz-kala,Анализ кала,Fecal analysis,24,220,800,3900
+uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,29,1100,4600,17700
+udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,29,200,960,4500
+strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",26,150,614,2190
+chistka-paraanalnyh,Чистка параанальных желёз,Anal gland expression,26,175,825,3500
+kapelnitsa,Внутривенная инфузия (капельница),IV infusion,29,100,1100,6850
+inyektsiya,Инъекция п/к или в/м,SC/IM injection,28,25,300,800
+statsionar,"Стационар, сутки","Hospitalization, 24 h",15,400,2000,15800
+vyzov-na-dom,Вызов врача на дом,Home visit,12,500,2250,7500
+narkoz-ingalyatsionny,Ингаляционный наркоз (базовая единица),Inhalation anesthesia (base unit),10,1800,5000,10630
+snyatie-shvov,Снятие швов,Suture removal,20,100,465,2300
+evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",24,1000,3280,7801
+krematsiya,Общая кремация мелкого животного,"Communal cremation, small pet",17,1000,3080,10000

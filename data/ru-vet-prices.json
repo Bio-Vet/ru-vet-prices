@@ -1,9 +1,9 @@
 {
  "name": "ru-vet-prices",
- "version": "1.0.0",
- "collected": "2026-08-21",
+ "version": "1.1.0",
+ "collected": "2026-08-22",
  "currency": "RUB",
- "method": "Public price lists of 20 veterinary clinics/chains in 6 Russian cities, collected manually 16–21 Aug 2026; minimum 'from' price for an animal ≤10 kg where weight tiers exist; per-hour hospitalization ×24, 'without vaccine/chip' and non-comparable tiers excluded (null). Sources are anonymized: id, city, kind only.",
+ "method": "Public price lists of 30 veterinary clinics/chains in 6 Russian cities, collected manually 16–22 Aug 2026; minimum 'from' price for an animal ≤10 kg where weight tiers exist; per-hour hospitalization ×24, 'without vaccine/chip' and non-comparable tiers excluded (null). Sources are anonymized: id, city, kind only.",
  "sources": [
   {
    "id": "A",
@@ -104,6 +104,56 @@
    "id": "T",
    "city": "Екатеринбург",
    "kind": "сеть"
+  },
+  {
+   "id": "U",
+   "city": "Краснодар",
+   "kind": "сеть"
+  },
+  {
+   "id": "V",
+   "city": "Краснодар",
+   "kind": "сеть"
+  },
+  {
+   "id": "W",
+   "city": "Новосибирск",
+   "kind": "сеть"
+  },
+  {
+   "id": "X",
+   "city": "Новосибирск",
+   "kind": "сеть"
+  },
+  {
+   "id": "Y",
+   "city": "Казань",
+   "kind": "клиника"
+  },
+  {
+   "id": "Z",
+   "city": "Казань",
+   "kind": "клиника"
+  },
+  {
+   "id": "AA",
+   "city": "Санкт-Петербург",
+   "kind": "сеть"
+  },
+  {
+   "id": "AB",
+   "city": "Санкт-Петербург",
+   "kind": "клиника"
+  },
+  {
+   "id": "AC",
+   "city": "Екатеринбург",
+   "kind": "клиника"
+  },
+  {
+   "id": "AD",
+   "city": "Екатеринбург",
+   "kind": "клиника"
   }
  ],
  "services": [
@@ -111,9 +161,9 @@
    "key": "priem-terapevta",
    "name_ru": "Первичный приём терапевта",
    "name_en": "Initial GP consultation",
-   "n": 20,
-   "min": 1000,
-   "median": 2250,
+   "n": 30,
+   "min": 350,
+   "median": 1987,
    "max": 6700,
    "prices": {
     "A": 2100,
@@ -135,16 +185,26 @@
     "Q": 1000,
     "R": 2500,
     "S": 2000,
-    "T": 2500
+    "T": 2500,
+    "U": 350,
+    "V": 600,
+    "W": 1500,
+    "X": 1800,
+    "Y": 1600,
+    "Z": 1000,
+    "AA": 2500,
+    "AB": 1450,
+    "AC": 1000,
+    "AD": 2500
    }
   },
   {
    "key": "povtorny-priem",
    "name_ru": "Повторный приём терапевта",
    "name_en": "Follow-up GP consultation",
-   "n": 16,
-   "min": 700,
-   "median": 1750,
+   "n": 24,
+   "min": 200,
+   "median": 1500,
    "max": 5300,
    "prices": {
     "A": null,
@@ -166,16 +226,26 @@
     "Q": 700,
     "R": 1800,
     "S": 1500,
-    "T": 1700
+    "T": 1700,
+    "U": 200,
+    "V": 500,
+    "W": 1000,
+    "X": 1350,
+    "Y": 1200,
+    "Z": null,
+    "AA": 2000,
+    "AB": 1050,
+    "AC": null,
+    "AD": 3200
    }
   },
   {
    "key": "priem-uzkogo",
    "name_ru": "Первичный приём узкого специалиста",
    "name_en": "Initial specialist consultation",
-   "n": 20,
-   "min": 1800,
-   "median": 3360,
+   "n": 28,
+   "min": 500,
+   "median": 3000,
    "max": 7400,
    "prices": {
     "A": 3500,
@@ -197,15 +267,25 @@
     "Q": 1800,
     "R": 3000,
     "S": 3000,
-    "T": 3500
+    "T": 3500,
+    "U": 500,
+    "V": 900,
+    "W": null,
+    "X": 2500,
+    "Y": 2300,
+    "Z": null,
+    "AA": 3300,
+    "AB": 1950,
+    "AC": 1500,
+    "AD": 4000
    }
   },
   {
    "key": "priem-nochnoy",
    "name_ru": "Ночной / экстренный приём",
    "name_en": "Night / emergency consultation",
-   "n": 9,
-   "min": 2000,
+   "n": 11,
+   "min": 500,
    "median": 3000,
    "max": 7600,
    "prices": {
@@ -228,16 +308,26 @@
     "Q": null,
     "R": 2500,
     "S": null,
-    "T": null
+    "T": null,
+    "U": 500,
+    "V": null,
+    "W": null,
+    "X": null,
+    "Y": null,
+    "Z": null,
+    "AA": null,
+    "AB": null,
+    "AC": null,
+    "AD": 4400
    }
   },
   {
    "key": "kastratsiya-kota",
    "name_ru": "Кастрация кота",
    "name_en": "Cat neuter (male)",
-   "n": 20,
-   "min": 2700,
-   "median": 5600,
+   "n": 30,
+   "min": 1500,
+   "median": 4560,
    "max": 12720,
    "prices": {
     "A": 6303,
@@ -259,16 +349,26 @@
     "Q": 3800,
     "R": 3000,
     "S": 6600,
-    "T": 2700
+    "T": 2700,
+    "U": 1500,
+    "V": 2500,
+    "W": 3000,
+    "X": 3500,
+    "Y": 2000,
+    "Z": 1500,
+    "AA": 4500,
+    "AB": 2700,
+    "AC": 1750,
+    "AD": 4620
    }
   },
   {
    "key": "sterilizatsiya-koshki",
    "name_ru": "Стерилизация кошки",
    "name_en": "Cat spay (female)",
-   "n": 20,
-   "min": 4550,
-   "median": 10000,
+   "n": 30,
+   "min": 2000,
+   "median": 8250,
    "max": 27400,
    "prices": {
     "A": 9812,
@@ -290,16 +390,26 @@
     "Q": 6000,
     "R": 10000,
     "S": 8000,
-    "T": 7200
+    "T": 7200,
+    "U": 3500,
+    "V": 3500,
+    "W": 5000,
+    "X": 7500,
+    "Y": 3700,
+    "Z": 2000,
+    "AA": 10500,
+    "AB": 7700,
+    "AC": 3100,
+    "AD": 7590
    }
   },
   {
    "key": "kastratsiya-kobelya",
    "name_ru": "Кастрация кобеля (до 10 кг)",
    "name_en": "Dog neuter (male, ≤10 kg)",
-   "n": 20,
-   "min": 4000,
-   "median": 12400,
+   "n": 30,
+   "min": 1500,
+   "median": 8625,
    "max": 20447,
    "prices": {
     "A": 20447,
@@ -321,16 +431,26 @@
     "Q": 4950,
     "R": 4000,
     "S": 12000,
-    "T": 6800
+    "T": 6800,
+    "U": 1500,
+    "V": 3000,
+    "W": 6000,
+    "X": 8500,
+    "Y": 3960,
+    "Z": 2000,
+    "AA": 10000,
+    "AB": 7500,
+    "AC": 3200,
+    "AD": 6710
    }
   },
   {
    "key": "sterilizatsiya-suki",
    "name_ru": "Стерилизация суки (до 10 кг)",
    "name_en": "Dog spay (female, ≤10 kg)",
-   "n": 20,
-   "min": 6400,
-   "median": 14500,
+   "n": 30,
+   "min": 2500,
+   "median": 11500,
    "max": 36500,
    "prices": {
     "A": 25741,
@@ -352,16 +472,26 @@
     "Q": 6400,
     "R": 10000,
     "S": 18000,
-    "T": 8200
+    "T": 8200,
+    "U": 2500,
+    "V": 4000,
+    "W": 5000,
+    "X": 12000,
+    "Y": 4930,
+    "Z": 3000,
+    "AA": 11500,
+    "AB": 9200,
+    "AC": 5350,
+    "AD": 7700
    }
   },
   {
    "key": "kesarevo-koshka",
    "name_ru": "Кесарево сечение кошке",
    "name_en": "C-section, cat",
-   "n": 18,
-   "min": 5300,
-   "median": 18675,
+   "n": 25,
+   "min": 2000,
+   "median": 13000,
    "max": 36500,
    "prices": {
     "A": 33971,
@@ -383,17 +513,27 @@
     "Q": 9900,
     "R": null,
     "S": 9000,
-    "T": 5300
+    "T": 5300,
+    "U": 2000,
+    "V": 3000,
+    "W": 4000,
+    "X": 16500,
+    "Y": null,
+    "Z": null,
+    "AA": null,
+    "AB": 6950,
+    "AC": 5900,
+    "AD": 7500
    }
   },
   {
    "key": "vaktsinatsiya-koshki",
    "name_ru": "Комплексная вакцинация кошки с бешенством",
    "name_en": "Cat core vaccination incl. rabies",
-   "n": 12,
-   "min": 2800,
-   "median": 3200,
-   "max": 4400,
+   "n": 18,
+   "min": 2700,
+   "median": 3100,
+   "max": 5300,
    "prices": {
     "A": 2900,
     "B": null,
@@ -414,17 +554,27 @@
     "Q": null,
     "R": null,
     "S": null,
-    "T": 4400
+    "T": 4400,
+    "U": null,
+    "V": 4000,
+    "W": null,
+    "X": 2800,
+    "Y": 2900,
+    "Z": null,
+    "AA": 3000,
+    "AB": 2700,
+    "AC": null,
+    "AD": 5300
    }
   },
   {
    "key": "vaktsinatsiya-sobaki",
    "name_ru": "Комплексная вакцинация собаки с бешенством",
    "name_en": "Dog core vaccination incl. rabies",
-   "n": 13,
+   "n": 19,
    "min": 2000,
-   "median": 3200,
-   "max": 4600,
+   "median": 3000,
+   "max": 5390,
    "prices": {
     "A": 2900,
     "B": null,
@@ -445,15 +595,25 @@
     "Q": null,
     "R": 2000,
     "S": null,
-    "T": 4600
+    "T": 4600,
+    "U": null,
+    "V": 4000,
+    "W": null,
+    "X": 2500,
+    "Y": 2750,
+    "Z": null,
+    "AA": 3000,
+    "AB": 2500,
+    "AC": null,
+    "AD": 5390
    }
   },
   {
    "key": "privivka-beshenstvo",
    "name_ru": "Прививка от бешенства",
    "name_en": "Rabies shot only",
-   "n": 13,
-   "min": 700,
+   "n": 18,
+   "min": 500,
    "median": 1500,
    "max": 2800,
    "prices": {
@@ -476,16 +636,26 @@
     "Q": null,
     "R": 700,
     "S": null,
-    "T": 1500
+    "T": 1500,
+    "U": null,
+    "V": 500,
+    "W": null,
+    "X": 1000,
+    "Y": 700,
+    "Z": 600,
+    "AA": null,
+    "AB": null,
+    "AC": null,
+    "AD": 2090
    }
   },
   {
    "key": "chipirovanie",
    "name_ru": "Чипирование",
    "name_en": "Microchipping",
-   "n": 18,
-   "min": 1500,
-   "median": 2650,
+   "n": 26,
+   "min": 350,
+   "median": 2000,
    "max": 5100,
    "prices": {
     "A": 4283,
@@ -507,16 +677,26 @@
     "Q": 1900,
     "R": null,
     "S": 2000,
-    "T": 2000
+    "T": 2000,
+    "U": 350,
+    "V": 1500,
+    "W": 500,
+    "X": 1100,
+    "Y": 1450,
+    "Z": null,
+    "AA": 2500,
+    "AB": 1600,
+    "AC": 1300,
+    "AD": null
    }
   },
   {
    "key": "degelmintizatsiya",
    "name_ru": "Дегельминтизация (процедура)",
    "name_en": "Deworming (procedure)",
-   "n": 4,
+   "n": 5,
    "min": 150,
-   "median": 700,
+   "median": 600,
    "max": 1200,
    "prices": {
     "A": null,
@@ -538,15 +718,25 @@
     "Q": null,
     "R": null,
     "S": null,
-    "T": 150
+    "T": 150,
+    "U": null,
+    "V": null,
+    "W": null,
+    "X": null,
+    "Y": null,
+    "Z": null,
+    "AA": null,
+    "AB": null,
+    "AC": 600,
+    "AD": null
    }
   },
   {
    "key": "obrabotka-kleshchi",
    "name_ru": "Обработка от клещей и блох (процедура)",
    "name_en": "Tick/flea treatment (procedure)",
-   "n": 13,
-   "min": 150,
+   "n": 16,
+   "min": 100,
    "median": 500,
    "max": 4970,
    "prices": {
@@ -569,16 +759,26 @@
     "Q": 150,
     "R": 250,
     "S": null,
-    "T": 150
+    "T": 150,
+    "U": null,
+    "V": 100,
+    "W": null,
+    "X": 550,
+    "Y": null,
+    "Z": null,
+    "AA": null,
+    "AB": null,
+    "AC": 500,
+    "AD": null
    }
   },
   {
    "key": "uzi-bryushnoy",
    "name_ru": "УЗИ брюшной полости",
    "name_en": "Abdominal ultrasound",
-   "n": 20,
-   "min": 2000,
-   "median": 4403,
+   "n": 29,
+   "min": 900,
+   "median": 3390,
    "max": 7500,
    "prices": {
     "A": 4492,
@@ -600,16 +800,26 @@
     "Q": 2300,
     "R": 4500,
     "S": 2500,
-    "T": 2000
+    "T": 2000,
+    "U": 1500,
+    "V": 900,
+    "W": 2000,
+    "X": 2500,
+    "Y": 2100,
+    "Z": null,
+    "AA": 4400,
+    "AB": 3650,
+    "AC": 1300,
+    "AD": 3200
    }
   },
   {
    "key": "uzi-serdtsa",
    "name_ru": "ЭхоКГ (УЗИ сердца)",
    "name_en": "Echocardiography",
-   "n": 20,
+   "n": 27,
    "min": 1500,
-   "median": 3450,
+   "median": 3000,
    "max": 8290,
    "prices": {
     "A": 4502,
@@ -631,16 +841,26 @@
     "Q": 1900,
     "R": 3000,
     "S": 3000,
-    "T": 3000
+    "T": 3000,
+    "U": null,
+    "V": null,
+    "W": 3000,
+    "X": 2850,
+    "Y": 1700,
+    "Z": null,
+    "AA": 4900,
+    "AB": 2100,
+    "AC": 1550,
+    "AD": 3800
    }
   },
   {
    "key": "rentgen",
    "name_ru": "Рентген, 1 проекция",
    "name_en": "X-ray, 1 view",
-   "n": 19,
-   "min": 1200,
-   "median": 2000,
+   "n": 26,
+   "min": 550,
+   "median": 1925,
    "max": 4800,
    "prices": {
     "A": null,
@@ -662,16 +882,26 @@
     "Q": 1500,
     "R": 1800,
     "S": 1200,
-    "T": 1400
+    "T": 1400,
+    "U": 550,
+    "V": null,
+    "W": 800,
+    "X": 1500,
+    "Y": null,
+    "Z": 700,
+    "AA": 1900,
+    "AB": null,
+    "AC": 1200,
+    "AD": 1950
    }
   },
   {
    "key": "ekg",
    "name_ru": "ЭКГ",
    "name_en": "ECG",
-   "n": 18,
-   "min": 1200,
-   "median": 2150,
+   "n": 25,
+   "min": 350,
+   "median": 2000,
    "max": 3730,
    "prices": {
     "A": 2209,
@@ -693,16 +923,26 @@
     "Q": 1700,
     "R": 2000,
     "S": 2000,
-    "T": 1300
+    "T": 1300,
+    "U": 350,
+    "V": null,
+    "W": 800,
+    "X": 1200,
+    "Y": null,
+    "Z": 800,
+    "AA": 2100,
+    "AB": 1500,
+    "AC": null,
+    "AD": 2800
    }
   },
   {
    "key": "oak",
    "name_ru": "Общий анализ крови",
    "name_en": "CBC",
-   "n": 17,
-   "min": 630,
-   "median": 1150,
+   "n": 27,
+   "min": 410,
+   "median": 860,
    "max": 3890,
    "prices": {
     "A": 1960,
@@ -724,16 +964,26 @@
     "Q": 1200,
     "R": 750,
     "S": null,
-    "T": 850
+    "T": 850,
+    "U": 410,
+    "V": 1050,
+    "W": 900,
+    "X": 800,
+    "Y": 860,
+    "Z": 500,
+    "AA": 800,
+    "AB": 950,
+    "AC": 500,
+    "AD": 1700
    }
   },
   {
    "key": "biohimiya",
    "name_ru": "Биохимия крови (базовый профиль)",
    "name_en": "Blood biochemistry (basic panel)",
-   "n": 18,
-   "min": 1200,
-   "median": 1750,
+   "n": 26,
+   "min": 600,
+   "median": 1675,
    "max": 4160,
    "prices": {
     "A": 2445,
@@ -755,16 +1005,26 @@
     "Q": 2900,
     "R": 1200,
     "S": 1400,
-    "T": 1700
+    "T": 1700,
+    "U": 600,
+    "V": 950,
+    "W": null,
+    "X": null,
+    "Y": 600,
+    "Z": 700,
+    "AA": 2250,
+    "AB": 2400,
+    "AC": 1050,
+    "AD": 3000
    }
   },
   {
    "key": "analiz-mochi",
    "name_ru": "Общий анализ мочи",
    "name_en": "Urinalysis",
-   "n": 18,
-   "min": 530,
-   "median": 920,
+   "n": 27,
+   "min": 300,
+   "median": 900,
    "max": 2880,
    "prices": {
     "A": 741,
@@ -786,16 +1046,26 @@
     "Q": 820,
     "R": 560,
     "S": 1300,
-    "T": 700
+    "T": 700,
+    "U": 300,
+    "V": 500,
+    "W": 500,
+    "X": null,
+    "Y": 860,
+    "Z": 300,
+    "AA": 1000,
+    "AB": 700,
+    "AC": 500,
+    "AD": 1200
    }
   },
   {
    "key": "analiz-kala",
    "name_ru": "Анализ кала",
    "name_en": "Fecal analysis",
-   "n": 17,
-   "min": 400,
-   "median": 850,
+   "n": 24,
+   "min": 220,
+   "median": 800,
    "max": 3900,
    "prices": {
     "A": 715,
@@ -817,16 +1087,26 @@
     "Q": 550,
     "R": 550,
     "S": null,
-    "T": 400
+    "T": 400,
+    "U": 220,
+    "V": null,
+    "W": 500,
+    "X": null,
+    "Y": 910,
+    "Z": 300,
+    "AA": 900,
+    "AB": 800,
+    "AC": 500,
+    "AD": null
    }
   },
   {
    "key": "uz-chistka-zubov",
    "name_ru": "УЗ-чистка зубов",
    "name_en": "Ultrasonic dental scaling",
-   "n": 20,
-   "min": 2200,
-   "median": 4975,
+   "n": 29,
+   "min": 1100,
+   "median": 4600,
    "max": 17700,
    "prices": {
     "A": 7212,
@@ -848,16 +1128,26 @@
     "Q": 2200,
     "R": 8000,
     "S": 11000,
-    "T": 2400
+    "T": 2400,
+    "U": 1100,
+    "V": 1500,
+    "W": null,
+    "X": 2200,
+    "Y": 2530,
+    "Z": 2000,
+    "AA": 2500,
+    "AB": 4400,
+    "AC": 3500,
+    "AD": 6400
    }
   },
   {
    "key": "udalenie-zuba",
    "name_ru": "Удаление зуба (простое)",
    "name_en": "Simple tooth extraction",
-   "n": 20,
-   "min": 450,
-   "median": 1075,
+   "n": 29,
+   "min": 200,
+   "median": 960,
    "max": 4500,
    "prices": {
     "A": 2604,
@@ -879,16 +1169,26 @@
     "Q": 550,
     "R": 1500,
     "S": 4500,
-    "T": 1400
+    "T": 1400,
+    "U": 440,
+    "V": 200,
+    "W": 500,
+    "X": 500,
+    "Y": 960,
+    "Z": 300,
+    "AA": null,
+    "AB": 300,
+    "AC": 720,
+    "AD": 1100
    }
   },
   {
    "key": "strizhka-kogtey",
    "name_ru": "Стрижка когтей кошке",
    "name_en": "Nail trim, cat",
-   "n": 19,
-   "min": 300,
-   "median": 710,
+   "n": 26,
+   "min": 150,
+   "median": 614,
    "max": 2190,
    "prices": {
     "A": 629,
@@ -910,16 +1210,26 @@
     "Q": 440,
     "R": 300,
     "S": 800,
-    "T": 500
+    "T": 500,
+    "U": 150,
+    "V": 250,
+    "W": null,
+    "X": 450,
+    "Y": 310,
+    "Z": null,
+    "AA": 650,
+    "AB": 480,
+    "AC": 460,
+    "AD": null
    }
   },
   {
    "key": "chistka-paraanalnyh",
    "name_ru": "Чистка параанальных желёз",
    "name_en": "Anal gland expression",
-   "n": 18,
-   "min": 450,
-   "median": 875,
+   "n": 26,
+   "min": 175,
+   "median": 825,
    "max": 3500,
    "prices": {
     "A": 1160,
@@ -941,16 +1251,26 @@
     "Q": 550,
     "R": 2500,
     "S": 700,
-    "T": null
+    "T": null,
+    "U": 175,
+    "V": 350,
+    "W": 400,
+    "X": 700,
+    "Y": 790,
+    "Z": 2000,
+    "AA": 1000,
+    "AB": null,
+    "AC": 850,
+    "AD": null
    }
   },
   {
    "key": "kapelnitsa",
    "name_ru": "Внутривенная инфузия (капельница)",
    "name_en": "IV infusion",
-   "n": 19,
-   "min": 420,
-   "median": 1500,
+   "n": 29,
+   "min": 100,
+   "median": 1100,
    "max": 6850,
    "prices": {
     "A": 911,
@@ -972,16 +1292,26 @@
     "Q": 420,
     "R": null,
     "S": 800,
-    "T": 1450
+    "T": 1450,
+    "U": 100,
+    "V": 100,
+    "W": 800,
+    "X": 1100,
+    "Y": 680,
+    "Z": 1000,
+    "AA": 1300,
+    "AB": 900,
+    "AC": 750,
+    "AD": 650
    }
   },
   {
    "key": "inyektsiya",
    "name_ru": "Инъекция п/к или в/м",
    "name_en": "SC/IM injection",
-   "n": 19,
-   "min": 110,
-   "median": 360,
+   "n": 28,
+   "min": 25,
+   "median": 300,
    "max": 800,
    "prices": {
     "A": null,
@@ -1003,16 +1333,26 @@
     "Q": 110,
     "R": 600,
     "S": 500,
-    "T": 250
+    "T": 250,
+    "U": 25,
+    "V": 80,
+    "W": 100,
+    "X": 250,
+    "Y": 300,
+    "Z": 100,
+    "AA": 330,
+    "AB": 250,
+    "AC": 120,
+    "AD": null
    }
   },
   {
    "key": "statsionar",
    "name_ru": "Стационар, сутки",
    "name_en": "Hospitalization, 24 h",
-   "n": 10,
-   "min": 1300,
-   "median": 5125,
+   "n": 15,
+   "min": 400,
+   "median": 2000,
    "max": 15800,
    "prices": {
     "A": null,
@@ -1034,16 +1374,26 @@
     "Q": 1700,
     "R": null,
     "S": 2000,
-    "T": null
+    "T": null,
+    "U": 400,
+    "V": null,
+    "W": null,
+    "X": 5000,
+    "Y": null,
+    "Z": 500,
+    "AA": null,
+    "AB": 1500,
+    "AC": 1300,
+    "AD": null
    }
   },
   {
    "key": "vyzov-na-dom",
    "name_ru": "Вызов врача на дом",
    "name_en": "Home visit",
-   "n": 8,
-   "min": 1000,
-   "median": 2750,
+   "n": 12,
+   "min": 500,
+   "median": 2250,
    "max": 7500,
    "prices": {
     "A": null,
@@ -1065,16 +1415,26 @@
     "Q": 3000,
     "R": null,
     "S": 1000,
-    "T": null
+    "T": null,
+    "U": 500,
+    "V": 2000,
+    "W": null,
+    "X": null,
+    "Y": 2200,
+    "Z": 500,
+    "AA": null,
+    "AB": null,
+    "AC": null,
+    "AD": null
    }
   },
   {
    "key": "narkoz-ingalyatsionny",
    "name_ru": "Ингаляционный наркоз (базовая единица)",
    "name_en": "Inhalation anesthesia (base unit)",
-   "n": 8,
+   "n": 10,
    "min": 1800,
-   "median": 5500,
+   "median": 5000,
    "max": 10630,
    "prices": {
     "A": 8439,
@@ -1096,16 +1456,26 @@
     "Q": null,
     "R": null,
     "S": null,
-    "T": null
+    "T": null,
+    "U": null,
+    "V": null,
+    "W": null,
+    "X": null,
+    "Y": null,
+    "Z": 6000,
+    "AA": null,
+    "AB": null,
+    "AC": 1800,
+    "AD": null
    }
   },
   {
    "key": "snyatie-shvov",
    "name_ru": "Снятие швов",
    "name_en": "Suture removal",
-   "n": 17,
-   "min": 210,
-   "median": 500,
+   "n": 20,
+   "min": 100,
+   "median": 465,
    "max": 2300,
    "prices": {
     "A": 748,
@@ -1127,16 +1497,26 @@
     "Q": 210,
     "R": null,
     "S": 700,
-    "T": null
+    "T": null,
+    "U": null,
+    "V": 100,
+    "W": 200,
+    "X": null,
+    "Y": null,
+    "Z": null,
+    "AA": null,
+    "AB": null,
+    "AC": 350,
+    "AD": null
    }
   },
   {
    "key": "evtanaziya",
    "name_ru": "Эвтаназия кошки / мелкого животного",
    "name_en": "Euthanasia, cat / small pet",
-   "n": 19,
-   "min": 1800,
-   "median": 3500,
+   "n": 24,
+   "min": 1000,
+   "median": 3280,
    "max": 7801,
    "prices": {
     "A": 7801,
@@ -1158,16 +1538,26 @@
     "Q": 1800,
     "R": 2000,
     "S": 4000,
-    "T": 2100
+    "T": 2100,
+    "U": 1000,
+    "V": null,
+    "W": null,
+    "X": null,
+    "Y": 1600,
+    "Z": 1000,
+    "AA": null,
+    "AB": 1500,
+    "AC": null,
+    "AD": 3200
    }
   },
   {
    "key": "krematsiya",
    "name_ru": "Общая кремация мелкого животного",
    "name_en": "Communal cremation, small pet",
-   "n": 13,
-   "min": 1800,
-   "median": 3800,
+   "n": 17,
+   "min": 1000,
+   "median": 3080,
    "max": 10000,
    "prices": {
     "A": null,
@@ -1189,7 +1579,17 @@
     "Q": 4500,
     "R": 2000,
     "S": 10000,
-    "T": 2350
+    "T": 2350,
+    "U": null,
+    "V": null,
+    "W": null,
+    "X": null,
+    "Y": 2000,
+    "Z": 1000,
+    "AA": null,
+    "AB": 1300,
+    "AC": null,
+    "AD": 8000
    }
   }
  ]
