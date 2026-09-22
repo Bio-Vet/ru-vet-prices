@@ -12,10 +12,10 @@ priem-terapevta,Первичный приём терапевта,Initial GP cons
 priem-terapevta,Первичный приём терапевта,Initial GP consultation,K,Москва,сеть,1200
 priem-terapevta,Первичный приём терапевта,Initial GP consultation,L,Москва,клиника,3590
 priem-terapevta,Первичный приём терапевта,Initial GP consultation,M,Санкт-Петербург,сеть,2200
-priem-terapevta,Первичный приём терапевта,Initial GP consultation,N,Санкт-Петербург,сеть,2300
+priem-terapevta,Первичный приём терапевта,Initial GP consultation,N,Санкт-Петербург,сеть,2500
 priem-terapevta,Первичный приём терапевта,Initial GP consultation,O,Санкт-Петербург,сеть,4500
 priem-terapevta,Первичный приём терапевта,Initial GP consultation,P,Санкт-Петербург,сеть,2300
-priem-terapevta,Первичный приём терапевта,Initial GP consultation,Q,Краснодар,сеть,1000
+priem-terapevta,Первичный приём терапевта,Initial GP consultation,Q,Краснодар,сеть,1100
 priem-terapevta,Первичный приём терапевта,Initial GP consultation,R,Казань,клиника,2500
 priem-terapevta,Первичный приём терапевта,Initial GP consultation,S,Новосибирск,сеть,2000
 priem-terapevta,Первичный приём терапевта,Initial GP consultation,T,Екатеринбург,сеть,2500
@@ -26,7 +26,7 @@ priem-terapevta,Первичный приём терапевта,Initial GP cons
 priem-terapevta,Первичный приём терапевта,Initial GP consultation,Y,Казань,клиника,1600
 priem-terapevta,Первичный приём терапевта,Initial GP consultation,Z,Казань,клиника,1000
 priem-terapevta,Первичный приём терапевта,Initial GP consultation,AA,Санкт-Петербург,сеть,2500
-priem-terapevta,Первичный приём терапевта,Initial GP consultation,AB,Санкт-Петербург,клиника,1450
+priem-terapevta,Первичный приём терапевта,Initial GP consultation,AB,Санкт-Петербург,клиника,2150
 priem-terapevta,Первичный приём терапевта,Initial GP consultation,AC,Екатеринбург,клиника,1000
 priem-terapevta,Первичный приём терапевта,Initial GP consultation,AD,Екатеринбург,клиника,2500
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,B,Москва,клиника,2900
@@ -38,10 +38,10 @@ povtorny-priem,Повторный приём терапевта,Follow-up GP con
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,J,Москва,клиника,1000
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,L,Москва,клиника,2810
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,M,Санкт-Петербург,сеть,1300
-povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,N,Санкт-Петербург,сеть,1800
+povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,N,Санкт-Петербург,сеть,2000
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,O,Санкт-Петербург,сеть,3700
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,P,Санкт-Петербург,сеть,2000
-povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,Q,Краснодар,сеть,700
+povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,Q,Краснодар,сеть,800
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,R,Казань,клиника,1800
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,S,Новосибирск,сеть,1500
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,T,Екатеринбург,сеть,1700
@@ -51,7 +51,7 @@ povtorny-priem,Повторный приём терапевта,Follow-up GP con
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,X,Новосибирск,сеть,1350
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,Y,Казань,клиника,1200
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,AA,Санкт-Петербург,сеть,2000
-povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,AB,Санкт-Петербург,клиника,1050
+povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,AB,Санкт-Петербург,клиника,1750
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,AD,Екатеринбург,клиника,3200
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,A,Москва,сеть,3500
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,B,Москва,клиника,5090
@@ -66,7 +66,7 @@ priem-uzkogo,Первичный приём узкого специалиста,I
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,K,Москва,сеть,3000
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,L,Москва,клиника,5500
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,M,Санкт-Петербург,сеть,3000
-priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,N,Санкт-Петербург,сеть,2900
+priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,N,Санкт-Петербург,сеть,3500
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,O,Санкт-Петербург,сеть,4500
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,P,Санкт-Петербург,сеть,3000
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,Q,Краснодар,сеть,1800
@@ -78,7 +78,7 @@ priem-uzkogo,Первичный приём узкого специалиста,I
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,X,Новосибирск,сеть,2500
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,Y,Казань,клиника,2300
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,AA,Санкт-Петербург,сеть,3300
-priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,AB,Санкт-Петербург,клиника,1950
+priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,AB,Санкт-Петербург,клиника,3050
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,AC,Екатеринбург,клиника,1500
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,AD,Екатеринбург,клиника,4000
 priem-nochnoy,Ночной / экстренный приём,Night / emergency consultation,A,Москва,сеть,3000
@@ -108,7 +108,7 @@ kastratsiya-kota,Кастрация кота,Cat neuter (male),M,Санкт-Пе
 kastratsiya-kota,Кастрация кота,Cat neuter (male),N,Санкт-Петербург,сеть,5500
 kastratsiya-kota,Кастрация кота,Cat neuter (male),O,Санкт-Петербург,сеть,6000
 kastratsiya-kota,Кастрация кота,Cat neuter (male),P,Санкт-Петербург,сеть,3000
-kastratsiya-kota,Кастрация кота,Cat neuter (male),Q,Краснодар,сеть,3800
+kastratsiya-kota,Кастрация кота,Cat neuter (male),Q,Краснодар,сеть,4200
 kastratsiya-kota,Кастрация кота,Cat neuter (male),R,Казань,клиника,3000
 kastratsiya-kota,Кастрация кота,Cat neuter (male),S,Новосибирск,сеть,6600
 kastratsiya-kota,Кастрация кота,Cat neuter (male),T,Екатеринбург,сеть,2700
@@ -119,11 +119,11 @@ kastratsiya-kota,Кастрация кота,Cat neuter (male),X,Новосиб�
 kastratsiya-kota,Кастрация кота,Cat neuter (male),Y,Казань,клиника,2000
 kastratsiya-kota,Кастрация кота,Cat neuter (male),Z,Казань,клиника,1500
 kastratsiya-kota,Кастрация кота,Cat neuter (male),AA,Санкт-Петербург,сеть,4500
-kastratsiya-kota,Кастрация кота,Cat neuter (male),AB,Санкт-Петербург,клиника,2700
+kastratsiya-kota,Кастрация кота,Cat neuter (male),AB,Санкт-Петербург,клиника,4000
 kastratsiya-kota,Кастрация кота,Cat neuter (male),AC,Екатеринбург,клиника,1750
 kastratsiya-kota,Кастрация кота,Cat neuter (male),AD,Екатеринбург,клиника,4620
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),A,Москва,сеть,9812
-sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),B,Москва,клиника,25590
+sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),B,Москва,клиника,26310
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),C,Москва,клиника,13050
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),D,Москва,клиника,4550
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),E,Москва,клиника,14100
@@ -138,7 +138,7 @@ sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),M,С
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),N,Санкт-Петербург,сеть,10000
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),O,Санкт-Петербург,сеть,27400
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),P,Санкт-Петербург,сеть,7500
-sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),Q,Краснодар,сеть,6000
+sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),Q,Краснодар,сеть,6600
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),R,Казань,клиника,10000
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),S,Новосибирск,сеть,8000
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),T,Екатеринбург,сеть,7200
@@ -149,7 +149,7 @@ sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),X,Н
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),Y,Казань,клиника,3700
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),Z,Казань,клиника,2000
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),AA,Санкт-Петербург,сеть,10500
-sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),AB,Санкт-Петербург,клиника,7700
+sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),AB,Санкт-Петербург,клиника,9500
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),AC,Екатеринбург,клиника,3100
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),AD,Екатеринбург,клиника,7590
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",A,Москва,сеть,20447
@@ -157,9 +157,9 @@ kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",C,Москва,клиника,13050
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",D,Москва,клиника,6480
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",E,Москва,клиника,14800
-kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",F,Москва,сеть,16000
+kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",F,Москва,сеть,14000
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",G,Москва,сеть,15000
-kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",H,Москва,сеть,8750
+kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",H,Москва,сеть,9750
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",I,Москва,сеть,20200
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",J,Москва,клиника,7200
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",K,Москва,сеть,10500
@@ -168,7 +168,7 @@ kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",N,Санкт-Петербург,сеть,10000
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",O,Санкт-Петербург,сеть,17700
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",P,Санкт-Петербург,сеть,6000
-kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",Q,Краснодар,сеть,4950
+kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",Q,Краснодар,сеть,5450
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",R,Казань,клиника,4000
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",S,Новосибирск,сеть,12000
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",T,Екатеринбург,сеть,6800
@@ -179,7 +179,7 @@ kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",Y,Казань,клиника,3960
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",Z,Казань,клиника,2000
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",AA,Санкт-Петербург,сеть,10000
-kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",AB,Санкт-Петербург,клиника,7500
+kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",AB,Санкт-Петербург,клиника,11000
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",AC,Екатеринбург,клиника,3200
 kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",AD,Екатеринбург,клиника,6710
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",A,Москва,сеть,25741
@@ -189,16 +189,16 @@ sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",E,Москва,клиника,17100
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",F,Москва,сеть,16000
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",G,Москва,сеть,13000
-sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",H,Москва,сеть,12000
+sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",H,Москва,сеть,13750
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",I,Москва,сеть,21700
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",J,Москва,клиника,7000
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",K,Москва,сеть,11500
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",L,Москва,клиника,25200
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",M,Санкт-Петербург,сеть,16800
-sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",N,Санкт-Петербург,сеть,12000
+sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",N,Санкт-Петербург,сеть,13000
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",O,Санкт-Петербург,сеть,36500
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",P,Санкт-Петербург,сеть,9000
-sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",Q,Краснодар,сеть,6400
+sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",Q,Краснодар,сеть,7000
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",R,Казань,клиника,10000
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",S,Новосибирск,сеть,18000
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",T,Екатеринбург,сеть,8200
@@ -209,7 +209,7 @@ sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",Y,Казань,клиника,4930
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",Z,Казань,клиника,3000
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",AA,Санкт-Петербург,сеть,11500
-sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",AB,Санкт-Петербург,клиника,9200
+sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",AB,Санкт-Петербург,клиника,14000
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",AC,Екатеринбург,клиника,5350
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",AD,Екатеринбург,клиника,7700
 kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",A,Москва,сеть,33971
@@ -227,14 +227,13 @@ kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",M,С
 kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",N,Санкт-Петербург,сеть,22000
 kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",O,Санкт-Петербург,сеть,36500
 kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",P,Санкт-Петербург,сеть,13000
-kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",Q,Краснодар,сеть,9900
+kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",Q,Краснодар,сеть,10900
 kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",S,Новосибирск,сеть,9000
 kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",T,Екатеринбург,сеть,5300
 kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",U,Краснодар,сеть,2000
 kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",V,Краснодар,сеть,3000
 kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",W,Новосибирск,сеть,4000
 kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",X,Новосибирск,сеть,16500
-kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",AB,Санкт-Петербург,клиника,6950
 kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",AC,Екатеринбург,клиника,5900
 kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",AD,Екатеринбург,клиника,7500
 vaktsinatsiya-koshki,Комплексная вакцинация кошки с бешенством,Cat core vaccination incl. rabies,A,Москва,сеть,2900
@@ -253,7 +252,7 @@ vaktsinatsiya-koshki,Комплексная вакцинация кошки с �
 vaktsinatsiya-koshki,Комплексная вакцинация кошки с бешенством,Cat core vaccination incl. rabies,X,Новосибирск,сеть,2800
 vaktsinatsiya-koshki,Комплексная вакцинация кошки с бешенством,Cat core vaccination incl. rabies,Y,Казань,клиника,2900
 vaktsinatsiya-koshki,Комплексная вакцинация кошки с бешенством,Cat core vaccination incl. rabies,AA,Санкт-Петербург,сеть,3000
-vaktsinatsiya-koshki,Комплексная вакцинация кошки с бешенством,Cat core vaccination incl. rabies,AB,Санкт-Петербург,клиника,2700
+vaktsinatsiya-koshki,Комплексная вакцинация кошки с бешенством,Cat core vaccination incl. rabies,AB,Санкт-Петербург,клиника,3200
 vaktsinatsiya-koshki,Комплексная вакцинация кошки с бешенством,Cat core vaccination incl. rabies,AD,Екатеринбург,клиника,5300
 vaktsinatsiya-sobaki,Комплексная вакцинация собаки с бешенством,Dog core vaccination incl. rabies,A,Москва,сеть,2900
 vaktsinatsiya-sobaki,Комплексная вакцинация собаки с бешенством,Dog core vaccination incl. rabies,C,Москва,клиника,3350
@@ -272,7 +271,7 @@ vaktsinatsiya-sobaki,Комплексная вакцинация собаки с
 vaktsinatsiya-sobaki,Комплексная вакцинация собаки с бешенством,Dog core vaccination incl. rabies,X,Новосибирск,сеть,2500
 vaktsinatsiya-sobaki,Комплексная вакцинация собаки с бешенством,Dog core vaccination incl. rabies,Y,Казань,клиника,2750
 vaktsinatsiya-sobaki,Комплексная вакцинация собаки с бешенством,Dog core vaccination incl. rabies,AA,Санкт-Петербург,сеть,3000
-vaktsinatsiya-sobaki,Комплексная вакцинация собаки с бешенством,Dog core vaccination incl. rabies,AB,Санкт-Петербург,клиника,2500
+vaktsinatsiya-sobaki,Комплексная вакцинация собаки с бешенством,Dog core vaccination incl. rabies,AB,Санкт-Петербург,клиника,3200
 vaktsinatsiya-sobaki,Комплексная вакцинация собаки с бешенством,Dog core vaccination incl. rabies,AD,Екатеринбург,клиника,5390
 privivka-beshenstvo,Прививка от бешенства,Rabies shot only,A,Москва,сеть,2320
 privivka-beshenstvo,Прививка от бешенства,Rabies shot only,C,Москва,клиника,2750
@@ -307,7 +306,7 @@ chipirovanie,Чипирование,Microchipping,M,Санкт-Петербур�
 chipirovanie,Чипирование,Microchipping,N,Санкт-Петербург,сеть,2800
 chipirovanie,Чипирование,Microchipping,O,Санкт-Петербург,сеть,4300
 chipirovanie,Чипирование,Microchipping,P,Санкт-Петербург,сеть,2500
-chipirovanie,Чипирование,Microchipping,Q,Краснодар,сеть,1900
+chipirovanie,Чипирование,Microchipping,Q,Краснодар,сеть,2000
 chipirovanie,Чипирование,Microchipping,S,Новосибирск,сеть,2000
 chipirovanie,Чипирование,Microchipping,T,Екатеринбург,сеть,2000
 chipirovanie,Чипирование,Microchipping,U,Краснодар,сеть,350
@@ -316,7 +315,7 @@ chipirovanie,Чипирование,Microchipping,W,Новосибирск,се�
 chipirovanie,Чипирование,Microchipping,X,Новосибирск,сеть,1100
 chipirovanie,Чипирование,Microchipping,Y,Казань,клиника,1450
 chipirovanie,Чипирование,Microchipping,AA,Санкт-Петербург,сеть,2500
-chipirovanie,Чипирование,Microchipping,AB,Санкт-Петербург,клиника,1600
+chipirovanie,Чипирование,Microchipping,AB,Санкт-Петербург,клиника,2500
 chipirovanie,Чипирование,Microchipping,AC,Екатеринбург,клиника,1300
 degelmintizatsiya,Дегельминтизация (процедура),Deworming (procedure),C,Москва,клиника,900
 degelmintizatsiya,Дегельминтизация (процедура),Deworming (procedure),F,Москва,сеть,500
@@ -331,9 +330,9 @@ obrabotka-kleshchi,Обработка от клещей и блох (проце�
 obrabotka-kleshchi,Обработка от клещей и блох (процедура),Tick/flea treatment (procedure),K,Москва,сеть,350
 obrabotka-kleshchi,Обработка от клещей и блох (процедура),Tick/flea treatment (procedure),L,Москва,клиника,480
 obrabotka-kleshchi,Обработка от клещей и блох (процедура),Tick/flea treatment (procedure),M,Санкт-Петербург,сеть,700
-obrabotka-kleshchi,Обработка от клещей и блох (процедура),Tick/flea treatment (procedure),N,Санкт-Петербург,сеть,600
+obrabotka-kleshchi,Обработка от клещей и блох (процедура),Tick/flea treatment (procedure),N,Санкт-Петербург,сеть,700
 obrabotka-kleshchi,Обработка от клещей и блох (процедура),Tick/flea treatment (procedure),P,Санкт-Петербург,сеть,500
-obrabotka-kleshchi,Обработка от клещей и блох (процедура),Tick/flea treatment (procedure),Q,Краснодар,сеть,150
+obrabotka-kleshchi,Обработка от клещей и блох (процедура),Tick/flea treatment (procedure),Q,Краснодар,сеть,180
 obrabotka-kleshchi,Обработка от клещей и блох (процедура),Tick/flea treatment (procedure),R,Казань,клиника,250
 obrabotka-kleshchi,Обработка от клещей и блох (процедура),Tick/flea treatment (procedure),T,Екатеринбург,сеть,150
 obrabotka-kleshchi,Обработка от клещей и блох (процедура),Tick/flea treatment (procedure),V,Краснодар,сеть,100
@@ -352,7 +351,7 @@ uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,J,Мос
 uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,K,Москва,сеть,3300
 uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,L,Москва,клиника,5280
 uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,M,Санкт-Петербург,сеть,5000
-uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,N,Санкт-Петербург,сеть,4600
+uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,N,Санкт-Петербург,сеть,5000
 uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,O,Санкт-Петербург,сеть,7100
 uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,P,Санкт-Петербург,сеть,4000
 uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,Q,Краснодар,сеть,2300
@@ -365,7 +364,7 @@ uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,W,Нов
 uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,X,Новосибирск,сеть,2500
 uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,Y,Казань,клиника,2100
 uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,AA,Санкт-Петербург,сеть,4400
-uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,AB,Санкт-Петербург,клиника,3650
+uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,AB,Санкт-Петербург,клиника,3850
 uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,AC,Екатеринбург,клиника,1300
 uzi-bryushnoy,УЗИ брюшной полости,Abdominal ultrasound,AD,Екатеринбург,клиника,3200
 uzi-serdtsa,ЭхоКГ (УЗИ сердца),Echocardiography,A,Москва,сеть,4502
@@ -392,7 +391,7 @@ uzi-serdtsa,ЭхоКГ (УЗИ сердца),Echocardiography,W,Новосиби
 uzi-serdtsa,ЭхоКГ (УЗИ сердца),Echocardiography,X,Новосибирск,сеть,2850
 uzi-serdtsa,ЭхоКГ (УЗИ сердца),Echocardiography,Y,Казань,клиника,1700
 uzi-serdtsa,ЭхоКГ (УЗИ сердца),Echocardiography,AA,Санкт-Петербург,сеть,4900
-uzi-serdtsa,ЭхоКГ (УЗИ сердца),Echocardiography,AB,Санкт-Петербург,клиника,2100
+uzi-serdtsa,ЭхоКГ (УЗИ сердца),Echocardiography,AB,Санкт-Петербург,клиника,3500
 uzi-serdtsa,ЭхоКГ (УЗИ сердца),Echocardiography,AC,Екатеринбург,клиника,1550
 uzi-serdtsa,ЭхоКГ (УЗИ сердца),Echocardiography,AD,Екатеринбург,клиника,3800
 rentgen,"Рентген, 1 проекция","X-ray, 1 view",B,Москва,клиника,4250
@@ -404,13 +403,11 @@ rentgen,"Рентген, 1 проекция","X-ray, 1 view",G,Москва,се
 rentgen,"Рентген, 1 проекция","X-ray, 1 view",H,Москва,сеть,2650
 rentgen,"Рентген, 1 проекция","X-ray, 1 view",I,Москва,сеть,2000
 rentgen,"Рентген, 1 проекция","X-ray, 1 view",J,Москва,клиника,1800
-rentgen,"Рентген, 1 проекция","X-ray, 1 view",K,Москва,сеть,1600
 rentgen,"Рентген, 1 проекция","X-ray, 1 view",L,Москва,клиника,2640
-rentgen,"Рентген, 1 проекция","X-ray, 1 view",M,Санкт-Петербург,сеть,2000
 rentgen,"Рентген, 1 проекция","X-ray, 1 view",N,Санкт-Петербург,сеть,2000
 rentgen,"Рентген, 1 проекция","X-ray, 1 view",O,Санкт-Петербург,сеть,3200
 rentgen,"Рентген, 1 проекция","X-ray, 1 view",P,Санкт-Петербург,сеть,2000
-rentgen,"Рентген, 1 проекция","X-ray, 1 view",Q,Краснодар,сеть,1500
+rentgen,"Рентген, 1 проекция","X-ray, 1 view",Q,Краснодар,сеть,1400
 rentgen,"Рентген, 1 проекция","X-ray, 1 view",R,Казань,клиника,1800
 rentgen,"Рентген, 1 проекция","X-ray, 1 view",S,Новосибирск,сеть,1200
 rentgen,"Рентген, 1 проекция","X-ray, 1 view",T,Екатеринбург,сеть,1400
@@ -459,8 +456,8 @@ oak,Общий анализ крови,CBC,K,Москва,сеть,1500
 oak,Общий анализ крови,CBC,L,Москва,клиника,2290
 oak,Общий анализ крови,CBC,M,Санкт-Петербург,сеть,700
 oak,Общий анализ крови,CBC,N,Санкт-Петербург,сеть,1750
-oak,Общий анализ крови,CBC,P,Санкт-Петербург,сеть,850
-oak,Общий анализ крови,CBC,Q,Краснодар,сеть,1200
+oak,Общий анализ крови,CBC,P,Санкт-Петербург,сеть,1650
+oak,Общий анализ крови,CBC,Q,Краснодар,сеть,1350
 oak,Общий анализ крови,CBC,R,Казань,клиника,750
 oak,Общий анализ крови,CBC,T,Екатеринбург,сеть,850
 oak,Общий анализ крови,CBC,U,Краснодар,сеть,410
@@ -470,7 +467,6 @@ oak,Общий анализ крови,CBC,X,Новосибирск,сеть,800
 oak,Общий анализ крови,CBC,Y,Казань,клиника,860
 oak,Общий анализ крови,CBC,Z,Казань,клиника,500
 oak,Общий анализ крови,CBC,AA,Санкт-Петербург,сеть,800
-oak,Общий анализ крови,CBC,AB,Санкт-Петербург,клиника,950
 oak,Общий анализ крови,CBC,AC,Екатеринбург,клиника,500
 oak,Общий анализ крови,CBC,AD,Екатеринбург,клиника,1700
 biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),A,Москва,сеть,2445
@@ -486,7 +482,7 @@ biohimiya,Биохимия крови (базовый профиль),Blood bioc
 biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),L,Москва,клиника,4160
 biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),M,Санкт-Петербург,сеть,1550
 biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),N,Санкт-Петербург,сеть,2500
-biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),P,Санкт-Петербург,сеть,1800
+biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),P,Санкт-Петербург,сеть,3200
 biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),Q,Краснодар,сеть,2900
 biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),R,Казань,клиника,1200
 biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),S,Новосибирск,сеть,1400
@@ -496,7 +492,6 @@ biohimiya,Биохимия крови (базовый профиль),Blood bioc
 biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),Y,Казань,клиника,600
 biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),Z,Казань,клиника,700
 biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),AA,Санкт-Петербург,сеть,2250
-biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),AB,Санкт-Петербург,клиника,2400
 biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),AC,Екатеринбург,клиника,1050
 biohimiya,Биохимия крови (базовый профиль),Blood biochemistry (basic panel),AD,Екатеринбург,клиника,3000
 analiz-mochi,Общий анализ мочи,Urinalysis,A,Москва,сеть,741
@@ -512,8 +507,8 @@ analiz-mochi,Общий анализ мочи,Urinalysis,K,Москва,сеть
 analiz-mochi,Общий анализ мочи,Urinalysis,L,Москва,клиника,1270
 analiz-mochi,Общий анализ мочи,Urinalysis,M,Санкт-Петербург,сеть,1000
 analiz-mochi,Общий анализ мочи,Urinalysis,N,Санкт-Петербург,сеть,1200
-analiz-mochi,Общий анализ мочи,Urinalysis,P,Санкт-Петербург,сеть,1150
-analiz-mochi,Общий анализ мочи,Urinalysis,Q,Краснодар,сеть,820
+analiz-mochi,Общий анализ мочи,Urinalysis,P,Санкт-Петербург,сеть,1350
+analiz-mochi,Общий анализ мочи,Urinalysis,Q,Краснодар,сеть,900
 analiz-mochi,Общий анализ мочи,Urinalysis,R,Казань,клиника,560
 analiz-mochi,Общий анализ мочи,Urinalysis,S,Новосибирск,сеть,1300
 analiz-mochi,Общий анализ мочи,Urinalysis,T,Екатеринбург,сеть,700
@@ -523,7 +518,7 @@ analiz-mochi,Общий анализ мочи,Urinalysis,W,Новосибирс�
 analiz-mochi,Общий анализ мочи,Urinalysis,Y,Казань,клиника,860
 analiz-mochi,Общий анализ мочи,Urinalysis,Z,Казань,клиника,300
 analiz-mochi,Общий анализ мочи,Urinalysis,AA,Санкт-Петербург,сеть,1000
-analiz-mochi,Общий анализ мочи,Urinalysis,AB,Санкт-Петербург,клиника,700
+analiz-mochi,Общий анализ мочи,Urinalysis,AB,Санкт-Петербург,клиника,900
 analiz-mochi,Общий анализ мочи,Urinalysis,AC,Екатеринбург,клиника,500
 analiz-mochi,Общий анализ мочи,Urinalysis,AD,Екатеринбург,клиника,1200
 analiz-kala,Анализ кала,Fecal analysis,A,Москва,сеть,715
@@ -539,7 +534,7 @@ analiz-kala,Анализ кала,Fecal analysis,K,Москва,сеть,800
 analiz-kala,Анализ кала,Fecal analysis,L,Москва,клиника,1740
 analiz-kala,Анализ кала,Fecal analysis,M,Санкт-Петербург,сеть,1000
 analiz-kala,Анализ кала,Fecal analysis,N,Санкт-Петербург,сеть,850
-analiz-kala,Анализ кала,Fecal analysis,P,Санкт-Петербург,сеть,900
+analiz-kala,Анализ кала,Fecal analysis,P,Санкт-Петербург,сеть,1040
 analiz-kala,Анализ кала,Fecal analysis,Q,Краснодар,сеть,550
 analiz-kala,Анализ кала,Fecal analysis,R,Казань,клиника,550
 analiz-kala,Анализ кала,Fecal analysis,T,Екатеринбург,сеть,400
@@ -566,7 +561,7 @@ uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,M,Сан
 uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,N,Санкт-Петербург,сеть,4600
 uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,O,Санкт-Петербург,сеть,17700
 uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,P,Санкт-Петербург,сеть,5000
-uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,Q,Краснодар,сеть,2200
+uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,Q,Краснодар,сеть,3700
 uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,R,Казань,клиника,8000
 uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,S,Новосибирск,сеть,11000
 uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,T,Екатеринбург,сеть,2400
@@ -576,7 +571,6 @@ uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,X,Нов
 uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,Y,Казань,клиника,2530
 uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,Z,Казань,клиника,2000
 uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,AA,Санкт-Петербург,сеть,2500
-uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,AB,Санкт-Петербург,клиника,4400
 uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,AC,Екатеринбург,клиника,3500
 uz-chistka-zubov,УЗ-чистка зубов,Ultrasonic dental scaling,AD,Екатеринбург,клиника,6400
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,A,Москва,сеть,2604
@@ -592,10 +586,10 @@ udalenie-zuba,Удаление зуба (простое),Simple tooth extraction
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,K,Москва,сеть,450
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,L,Москва,клиника,920
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,M,Санкт-Петербург,сеть,1100
-udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,N,Санкт-Петербург,сеть,900
+udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,N,Санкт-Петербург,сеть,1000
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,O,Санкт-Петербург,сеть,4000
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,P,Санкт-Петербург,сеть,1000
-udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,Q,Краснодар,сеть,550
+udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,Q,Краснодар,сеть,600
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,R,Казань,клиника,1500
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,S,Новосибирск,сеть,4500
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,T,Екатеринбург,сеть,1400
@@ -605,7 +599,7 @@ udalenie-zuba,Удаление зуба (простое),Simple tooth extraction
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,X,Новосибирск,сеть,500
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,Y,Казань,клиника,960
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,Z,Казань,клиника,300
-udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,AB,Санкт-Петербург,клиника,300
+udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,AB,Санкт-Петербург,клиника,1500
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,AC,Екатеринбург,клиника,720
 udalenie-zuba,Удаление зуба (простое),Simple tooth extraction,AD,Екатеринбург,клиника,1100
 strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",A,Москва,сеть,629
@@ -623,7 +617,7 @@ strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",M,Сан
 strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",N,Санкт-Петербург,сеть,800
 strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",O,Санкт-Петербург,сеть,1300
 strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",P,Санкт-Петербург,сеть,800
-strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",Q,Краснодар,сеть,440
+strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",Q,Краснодар,сеть,480
 strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",R,Казань,клиника,300
 strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",S,Новосибирск,сеть,800
 strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",T,Екатеринбург,сеть,500
@@ -632,7 +626,7 @@ strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",V,Кра
 strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",X,Новосибирск,сеть,450
 strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",Y,Казань,клиника,310
 strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",AA,Санкт-Петербург,сеть,650
-strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",AB,Санкт-Петербург,клиника,480
+strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",AB,Санкт-Петербург,клиника,600
 strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",AC,Екатеринбург,клиника,460
 chistka-paraanalnyh,Чистка параанальных желёз,Anal gland expression,A,Москва,сеть,1160
 chistka-paraanalnyh,Чистка параанальных желёз,Anal gland expression,B,Москва,клиника,2420
@@ -649,7 +643,7 @@ chistka-paraanalnyh,Чистка параанальных желёз,Anal gland 
 chistka-paraanalnyh,Чистка параанальных желёз,Anal gland expression,N,Санкт-Петербург,сеть,850
 chistka-paraanalnyh,Чистка параанальных желёз,Anal gland expression,O,Санкт-Петербург,сеть,3500
 chistka-paraanalnyh,Чистка параанальных желёз,Anal gland expression,P,Санкт-Петербург,сеть,800
-chistka-paraanalnyh,Чистка параанальных желёз,Anal gland expression,Q,Краснодар,сеть,550
+chistka-paraanalnyh,Чистка параанальных желёз,Anal gland expression,Q,Краснодар,сеть,600
 chistka-paraanalnyh,Чистка параанальных желёз,Anal gland expression,R,Казань,клиника,2500
 chistka-paraanalnyh,Чистка параанальных желёз,Anal gland expression,S,Новосибирск,сеть,700
 chistka-paraanalnyh,Чистка параанальных желёз,Anal gland expression,U,Краснодар,сеть,175
@@ -676,7 +670,7 @@ kapelnitsa,Внутривенная инфузия (капельница),IV inf
 kapelnitsa,Внутривенная инфузия (капельница),IV infusion,N,Санкт-Петербург,сеть,1200
 kapelnitsa,Внутривенная инфузия (капельница),IV infusion,O,Санкт-Петербург,сеть,2700
 kapelnitsa,Внутривенная инфузия (капельница),IV infusion,P,Санкт-Петербург,сеть,1000
-kapelnitsa,Внутривенная инфузия (капельница),IV infusion,Q,Краснодар,сеть,420
+kapelnitsa,Внутривенная инфузия (капельница),IV infusion,Q,Краснодар,сеть,460
 kapelnitsa,Внутривенная инфузия (капельница),IV infusion,S,Новосибирск,сеть,800
 kapelnitsa,Внутривенная инфузия (капельница),IV infusion,T,Екатеринбург,сеть,1450
 kapelnitsa,Внутривенная инфузия (капельница),IV infusion,U,Краснодар,сеть,100
@@ -686,7 +680,7 @@ kapelnitsa,Внутривенная инфузия (капельница),IV inf
 kapelnitsa,Внутривенная инфузия (капельница),IV infusion,Y,Казань,клиника,680
 kapelnitsa,Внутривенная инфузия (капельница),IV infusion,Z,Казань,клиника,1000
 kapelnitsa,Внутривенная инфузия (капельница),IV infusion,AA,Санкт-Петербург,сеть,1300
-kapelnitsa,Внутривенная инфузия (капельница),IV infusion,AB,Санкт-Петербург,клиника,900
+kapelnitsa,Внутривенная инфузия (капельница),IV infusion,AB,Санкт-Петербург,клиника,1300
 kapelnitsa,Внутривенная инфузия (капельница),IV infusion,AC,Екатеринбург,клиника,750
 kapelnitsa,Внутривенная инфузия (капельница),IV infusion,AD,Екатеринбург,клиника,650
 inyektsiya,Инъекция п/к или в/м,SC/IM injection,B,Москва,клиника,430
@@ -704,7 +698,7 @@ inyektsiya,Инъекция п/к или в/м,SC/IM injection,M,Санкт-Пе
 inyektsiya,Инъекция п/к или в/м,SC/IM injection,N,Санкт-Петербург,сеть,400
 inyektsiya,Инъекция п/к или в/м,SC/IM injection,O,Санкт-Петербург,сеть,800
 inyektsiya,Инъекция п/к или в/м,SC/IM injection,P,Санкт-Петербург,сеть,300
-inyektsiya,Инъекция п/к или в/м,SC/IM injection,Q,Краснодар,сеть,110
+inyektsiya,Инъекция п/к или в/м,SC/IM injection,Q,Краснодар,сеть,130
 inyektsiya,Инъекция п/к или в/м,SC/IM injection,R,Казань,клиника,600
 inyektsiya,Инъекция п/к или в/м,SC/IM injection,S,Новосибирск,сеть,500
 inyektsiya,Инъекция п/к или в/м,SC/IM injection,T,Екатеринбург,сеть,250
@@ -715,22 +709,21 @@ inyektsiya,Инъекция п/к или в/м,SC/IM injection,X,Новосиб�
 inyektsiya,Инъекция п/к или в/м,SC/IM injection,Y,Казань,клиника,300
 inyektsiya,Инъекция п/к или в/м,SC/IM injection,Z,Казань,клиника,100
 inyektsiya,Инъекция п/к или в/м,SC/IM injection,AA,Санкт-Петербург,сеть,330
-inyektsiya,Инъекция п/к или в/м,SC/IM injection,AB,Санкт-Петербург,клиника,250
+inyektsiya,Инъекция п/к или в/м,SC/IM injection,AB,Санкт-Петербург,клиника,370
 inyektsiya,Инъекция п/к или в/м,SC/IM injection,AC,Екатеринбург,клиника,120
 statsionar,"Стационар, сутки","Hospitalization, 24 h",B,Москва,клиника,6500
 statsionar,"Стационар, сутки","Hospitalization, 24 h",E,Москва,клиника,10500
-statsionar,"Стационар, сутки","Hospitalization, 24 h",F,Москва,сеть,3750
+statsionar,"Стационар, сутки","Hospitalization, 24 h",F,Москва,сеть,2000
 statsionar,"Стационар, сутки","Hospitalization, 24 h",H,Москва,сеть,1300
 statsionar,"Стационар, сутки","Hospitalization, 24 h",K,Москва,сеть,1600
 statsionar,"Стационар, сутки","Hospitalization, 24 h",L,Москва,клиника,8090
 statsionar,"Стационар, сутки","Hospitalization, 24 h",M,Санкт-Петербург,сеть,12000
 statsionar,"Стационар, сутки","Hospitalization, 24 h",O,Санкт-Петербург,сеть,15800
-statsionar,"Стационар, сутки","Hospitalization, 24 h",Q,Краснодар,сеть,1700
 statsionar,"Стационар, сутки","Hospitalization, 24 h",S,Новосибирск,сеть,2000
 statsionar,"Стационар, сутки","Hospitalization, 24 h",U,Краснодар,сеть,400
 statsionar,"Стационар, сутки","Hospitalization, 24 h",X,Новосибирск,сеть,5000
 statsionar,"Стационар, сутки","Hospitalization, 24 h",Z,Казань,клиника,500
-statsionar,"Стационар, сутки","Hospitalization, 24 h",AB,Санкт-Петербург,клиника,1500
+statsionar,"Стационар, сутки","Hospitalization, 24 h",AB,Санкт-Петербург,клиника,1600
 statsionar,"Стационар, сутки","Hospitalization, 24 h",AC,Екатеринбург,клиника,1300
 vyzov-na-dom,Вызов врача на дом,Home visit,B,Москва,клиника,7500
 vyzov-na-dom,Вызов врача на дом,Home visit,F,Москва,сеть,2500
@@ -739,7 +732,6 @@ vyzov-na-dom,Вызов врача на дом,Home visit,J,Москва,кли�
 vyzov-na-dom,Вызов врача на дом,Home visit,K,Москва,сеть,2300
 vyzov-na-dom,Вызов врача на дом,Home visit,O,Санкт-Петербург,сеть,3100
 vyzov-na-dom,Вызов врача на дом,Home visit,Q,Краснодар,сеть,3000
-vyzov-na-dom,Вызов врача на дом,Home visit,S,Новосибирск,сеть,1000
 vyzov-na-dom,Вызов врача на дом,Home visit,U,Краснодар,сеть,500
 vyzov-na-dom,Вызов врача на дом,Home visit,V,Краснодар,сеть,2000
 vyzov-na-dom,Вызов врача на дом,Home visit,Y,Казань,клиника,2200
@@ -769,8 +761,9 @@ snyatie-shvov,Снятие швов,Suture removal,M,Санкт-Петербур
 snyatie-shvov,Снятие швов,Suture removal,N,Санкт-Петербург,сеть,350
 snyatie-shvov,Снятие швов,Suture removal,O,Санкт-Петербург,сеть,2300
 snyatie-shvov,Снятие швов,Suture removal,P,Санкт-Петербург,сеть,300
-snyatie-shvov,Снятие швов,Suture removal,Q,Краснодар,сеть,210
+snyatie-shvov,Снятие швов,Suture removal,Q,Краснодар,сеть,230
 snyatie-shvov,Снятие швов,Suture removal,S,Новосибирск,сеть,700
+snyatie-shvov,Снятие швов,Suture removal,U,Краснодар,сеть,50
 snyatie-shvov,Снятие швов,Suture removal,V,Краснодар,сеть,100
 snyatie-shvov,Снятие швов,Suture removal,W,Новосибирск,сеть,200
 snyatie-shvov,Снятие швов,Suture removal,AC,Екатеринбург,клиника,350
@@ -779,9 +772,9 @@ evtanaziya,Эвтаназия кошки / мелкого животного,"Eu
 evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",D,Москва,клиника,2870
 evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",E,Москва,клиника,3450
 evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",F,Москва,сеть,2100
-evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",G,Москва,сеть,5500
+evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",G,Москва,сеть,6000
 evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",H,Москва,сеть,3050
-evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",I,Москва,сеть,5500
+evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",I,Москва,сеть,6000
 evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",J,Москва,клиника,2000
 evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",K,Москва,сеть,3700
 evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",L,Москва,клиника,3360
@@ -789,7 +782,7 @@ evtanaziya,Эвтаназия кошки / мелкого животного,"Eu
 evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",N,Санкт-Петербург,сеть,4100
 evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",O,Санкт-Петербург,сеть,7500
 evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",P,Санкт-Петербург,сеть,4500
-evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",Q,Краснодар,сеть,1800
+evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",Q,Краснодар,сеть,2000
 evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",R,Казань,клиника,2000
 evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",S,Новосибирск,сеть,4000
 evtanaziya,Эвтаназия кошки / мелкого животного,"Euthanasia, cat / small pet",T,Екатеринбург,сеть,2100
@@ -813,5 +806,5 @@ krematsiya,Общая кремация мелкого животного,"Commun
 krematsiya,Общая кремация мелкого животного,"Communal cremation, small pet",T,Екатеринбург,сеть,2350
 krematsiya,Общая кремация мелкого животного,"Communal cremation, small pet",Y,Казань,клиника,2000
 krematsiya,Общая кремация мелкого животного,"Communal cremation, small pet",Z,Казань,клиника,1000
-krematsiya,Общая кремация мелкого животного,"Communal cremation, small pet",AB,Санкт-Петербург,клиника,1300
+krematsiya,Общая кремация мелкого животного,"Communal cremation, small pet",AB,Санкт-Петербург,клиника,1500
 krematsiya,Общая кремация мелкого животного,"Communal cremation, small pet",AD,Екатеринбург,клиника,8000

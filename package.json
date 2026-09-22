@@ -1,6 +1,6 @@
 {
   "name": "ru-vet-prices",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Open snapshot of veterinary service prices in Russia: 35 services × 20 clinics × 6 cities (anonymized)",
   "type": "module",
   "main": "data/ru-vet-prices.json",

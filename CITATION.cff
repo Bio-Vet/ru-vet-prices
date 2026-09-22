@@ -5,8 +5,8 @@ type: dataset
 authors:
   - name: "BioVet veterinary clinic network"
     website: "https://bio.vet"
-version: 1.0.0
-date-released: 2026-08-21
+version: 1.2.0
+date-released: 2026-09-22
 license: CC-BY-4.0
 repository-code: "https://github.com/Bio-Vet/ru-vet-prices"
 url: "https://bio.vet/open-data/"
