@@ -3,9 +3,9 @@ priem-terapevta,Первичный приём терапевта,Initial GP cons
 povtorny-priem,Повторный приём терапевта,Follow-up GP consultation,24,200,1600,5300
 priem-uzkogo,Первичный приём узкого специалиста,Initial specialist consultation,28,500,3135,7400
 priem-nochnoy,Ночной / экстренный приём,Night / emergency consultation,11,500,3000,7600
-kastratsiya-kota,Кастрация кота,Cat neuter (male),30,1500,4560,12720
+kastratsiya-kota,Кастрация кота,Cat neuter (male),30,1500,4635,12720
 sterilizatsiya-koshki,Стерилизация кошки,Cat spay (female),30,2000,9000,27400
-kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",30,1500,9875,20447
+kastratsiya-kobelya,Кастрация кобеля (до 10 кг),"Dog neuter (male, ≤10 kg)",30,1500,9872,20447
 sterilizatsiya-suki,Стерилизация суки (до 10 кг),"Dog spay (female, ≤10 kg)",30,2500,11750,36500
 kesarevo-koshka,Кесарево сечение кошке,"C-section, cat",24,2000,14500,36500
 vaktsinatsiya-koshki,Комплексная вакцинация кошки с бешенством,Cat core vaccination incl. rabies,18,2800,3200,5300
@@ -28,7 +28,7 @@ strizhka-kogtey,Стрижка когтей кошке,"Nail trim, cat",26,150,6
 chistka-paraanalnyh,Чистка параанальных желёз,Anal gland expression,26,175,825,3500
 kapelnitsa,Внутривенная инфузия (капельница),IV infusion,29,100,1100,6850
 inyektsiya,Инъекция п/к или в/м,SC/IM injection,28,25,300,800
-statsionar,"Стационар, сутки","Hospitalization, 24 h",14,400,2000,15800
+statsionar,"Стационар, сутки","Hospitalization, 24 h",13,400,2000,15800
 vyzov-na-dom,Вызов врача на дом,Home visit,11,500,2300,7500
 narkoz-ingalyatsionny,Ингаляционный наркоз (базовая единица),Inhalation anesthesia (base unit),10,1800,5000,10630
 snyatie-shvov,Снятие швов,Suture removal,21,50,430,2300
